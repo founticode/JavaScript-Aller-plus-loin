@@ -1,0 +1,136 @@
+/* Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Inter", sans-serif;
+}
+
+/* خلفية مريحة ولون واضح */
+body {
+  background: linear-gradient(135deg, #dceefb, #f9fafb);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 40px;
+  color: #333;
+}
+
+/* العنوان */
+h2 {
+  font-size: 2rem;
+  margin-bottom: 25px;
+  font-weight: 600;
+  color: #1a237e;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* صندوق البحث */
+.search-box {
+  display: flex;
+  gap: 10px;
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+  padding: 10px;
+  transition: 0.3s ease;
+}
+
+.search-box:hover {
+  box-shadow: 0 6px 20px rgba(0,0,0,0.15);
+}
+
+/* الإدخال */
+#city {
+  border: none;
+  outline: none;
+  font-size: 1rem;
+  padding: 10px 15px;
+  border-radius: 8px;
+  width: 220px;
+}
+
+/* الزر */
+#addBtn {
+  background-color: #0077ff;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  padding: 10px 15px;
+  cursor: pointer;
+  font-weight: 600;
+  transition: 0.3s ease;
+}
+
+#addBtn:hover {
+  background-color: #005fcc;
+}
+
+/* المنطقة ديال النتائج */
+#weather {
+  margin-top: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 200px;
+}
+
+/* الكارت */
+.card {
+  background: white;
+  border-radius: 20px;
+  padding: 25px 35px;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+  text-align: center;
+  transition: transform 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+}
+
+/* اسم المدينة */
+.cityName {
+  font-size: 1.3rem;
+  color: #1a237e;
+  margin-bottom: 10px;
+}
+
+/* الأيقونة */
+.icon {
+  width: 90px;
+  height: 90px;
+}
+
+/* درجة الحرارة */
+.temp {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #0d47a1;
+  margin-top: 10px;
+}
+
+/* الوصف */
+.desc {
+  font-size: 1.1rem;
+  color: #555;
+  margin-top: 5px;
+  text-transform: capitalize;
+}
+
+/* Loading و Errors */
+.loading {
+  color: #666;
+  font-size: 1.1rem;
+  font-style: italic;
+}
+
+.error {
+  color: #b71c1c;
+  background: rgba(255, 0, 0, 0.1);
+  padding: 10px 20px;
+  border-radius: 8px;
+  font-weight: 500;
+}
