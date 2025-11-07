@@ -74,6 +74,7 @@ function applyFilters() {
         if (searchTerm) {
             const name = p.name.toLowerCase();
             const teamName = p.team.toLowerCase();
+
             if (!name.includes(searchTerm) && !teamName.includes(searchTerm)) return false;
         }
         return true;
@@ -84,6 +85,11 @@ function applyFilters() {
 
 teamFilter.addEventListener('change', applyFilters);
 prcFilter.addEventListener('change', applyFilters);
+
+
+input.addEventListener('input', applyFilters);
+
+
 btn.addEventListener('click', applyFilters);
 input.addEventListener('keydown', function(k) {
     if (k.key === 'Enter') {
