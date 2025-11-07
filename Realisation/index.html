@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Elite Kits</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    
+    <h2>Elite Kits</h2>
+
+    <div id="kit">
+        <input id="search" type="text" placeholder="Search Your Kit..."> <button id="btn">Search</button>
+    </div>
+
+    <select id="filter"></select>
+
+    <select id="priceFilter">
+        <option value="all">All</option>
+        <option value="under50">Under 50€</option>
+        <option value="between50&100">50€ - 100€</option>
+        <option value="over100">Over 100€</option>
+    </select>
+
+    <div id="shirt"></div>
+
+    <template id="template">
+        <div id="card">
+            <img class="pic" src="" alt="">
+            <h4 class="shirtName"></h4>
+            <p class="price"></p>
+        </div>
+    </template>
+
+    <footer id="footer">
+        <p id="foot">© 2024 Elite Kits. All rights reserved.</p>
+    </footer>
+
+<script src="script.js"></script>
+</body>
+</html> 

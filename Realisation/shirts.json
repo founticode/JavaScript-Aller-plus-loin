@@ -1,0 +1,239 @@
+[
+    {
+        "name": "AC Milan Home Shirt Ibrahimovic #11",
+        "price": 89,
+        "team": "AC Milan",
+        "image": "pics/AC Milan Home Shirt Ibrahimovic 11.webp"
+    },
+
+    {
+        "name": "AC Milan Home Shirt Shevchenko #7",
+        "price": 99,
+        "team": "AC Milan",
+        "image": "pics/AC Milan Home Shirt Shevchenko 7.webp"
+    },
+
+    {
+        "name": "Al-Nassr Home Shirt Ronaldo #7",
+        "price": 129,
+        "team": "Al-Nassr",
+        "image": "pics/Al-Nassr Home Shirt Ronaldo 7.webp"
+    },
+
+    {
+        "name": "Anderlecht Home Shirt",
+        "price": 49,
+        "team": "Anderlecht",
+        "image": "pics/Anderlecht Home Shirt.webp"
+    },
+
+    {
+        "name": "Arsenal Home Shirt Henry #14",
+        "price": 99,
+        "team": "Arsenal",
+        "image": "pics/Arsenal Home Shirt Henry 14.webp"
+    },
+
+    {
+        "name": "AS Cittadella Away Shirt",
+        "price": 49,
+        "team": "AS Cittadella",
+        "image": "pics/AS Cittadella Away Shirt.webp"
+    },
+
+    {
+        "name": "Barcelona Away Shirt Neymar Jr #11",
+        "price": 149,
+        "team": "Barcelona",
+        "image": "pics/Barcelona Away Shirt Neymar Jr 11.webp"
+    },
+
+    {
+        "name": "Barcelona Home Shirt Iniesta #8",
+        "price": 129,
+        "team": "Barcelona",
+        "image": "pics/Barcelona Home Shirt Iniesta 8.webp"
+    },
+
+    {
+        "name": "Barcelona Home Shirt Messi #10",
+        "price": 149,
+        "team": "Barcelona",
+        "image": "pics/Barcelona Home Shirt Messi 10.webp"
+    },
+
+    {
+        "name": "Bayern Munich Away Shirt Ribery #7",
+        "price": 79,
+        "team": "Bayern Munich",
+        "image": "pics/Bayern Munich Away Shirt Ribery 7.webp"
+    },
+
+    {
+        "name": "Bayern Munich Third Shirt Ribery #7",
+        "price": 99,
+        "team": "Bayern Munich",
+        "image": "pics/Bayern Munich Third Shirt Ribery 7.webp"
+    },
+
+    {
+        "name": "Borussia Dortmund Away Shirt Haaland #9",
+        "price": 69,
+        "team": "Borussia Dortmund",
+        "image": "pics/Borussia Dortmund Away Shirt Haaland 9.webp"
+    },
+
+    {
+        "name": "Borussia Dortmund Home Shirt Reus #11",
+        "price": 79,
+        "team": "Borussia Dortmund",
+        "image": "pics/Borussia Dortmund Home Shirt Reus 11.webp"
+    },
+
+    {
+        "name": "Brentford Away Shirt",
+        "price": 49,
+        "team": "Brentford",
+        "image": "pics/Brentford Away Shirt.webp"
+    },
+
+    {
+        "name": "Castellon Away Shirt",
+        "price": 29,
+        "team": "Castellon",
+        "image": "pics/Castellon Away Shirt.webp"
+    },
+
+    {
+        "name": "Chelsea Home Shirt Lampard #8",
+        "price": 99,
+        "team": "Chelsea",
+        "image": "pics/Chelsea Home Shirt Lampard 8.webp"
+    },
+
+    {
+        "name": "FC Lugano Third Shirt",
+        "price": 39,
+        "team": "FC Lugano",
+        "image": "pics/FC Lugano Third Shirt.webp"
+    },
+
+    {
+        "name": "Inter Milan Home Shirt Adriano #10",
+        "price": 79,
+        "team": "Inter Milan",
+        "image": "pics/Inter Milan Home Shirt Adriano 10.webp"
+    },
+
+    {
+        "name": "Inter Milan Home Shirt Eto'o #9",
+        "price": 79,
+        "team": "Inter Milan",
+        "image": "pics/Inter Milan Home Shirt Eto'o 9.webp"
+    },
+
+    {
+        "name": "Juventus Away Shirt Del Piero #10",
+        "price": 89,
+        "team": "Juventus",
+        "image": "pics/Juventus Away Shirt Del Piero 10.webp"
+    },
+
+    {
+        "name": "Juventus Away Shirt Pirlo #21",
+        "price": 99,
+        "team": "Juventus",
+        "image": "pics/Juventus Away Shirt Pirlo 21.webp"
+    },
+
+    {
+        "name": "RB Salzburg Authentic Away Shirt",
+        "price": 39,
+        "team": "RB Salzburg",
+        "image": "pics/RB Salzburg Authentic Away Shirt.webp"
+    },
+
+    {
+        "name": "Palermo Away Shirt",
+        "price": 29,
+        "team": "Palermo",
+        "image": "pics/Palermo Away Shirt.webp"
+    },
+
+    {
+        "name": "Liverpool Away Shirt Torres #9",
+        "price": 79,
+        "team": "Liverpool",
+        "image": "pics/Liverpool Away Shirt Torres 9.webp"
+    },
+
+    {
+        "name": "Liverpool Home Shirt M.Salah #11",
+        "price": 89,
+        "team": "Liverpool",
+        "image": "pics/Liverpool Home Shirt M.Salah 11.webp"
+    },
+
+    {
+        "name": "Manchester City Authentic Home Shirt Haaland #9",
+        "price": 69,
+        "team": "Manchester City",
+        "image": "pics/Manchester City Authentic Home Shirt Haaland 9.webp"
+    },
+
+    {
+        "name": "Manchester City Home Shirt Mahrez #26",
+        "price": 59,
+        "team": "Manchester City",
+        "image": "pics/Manchester City Home Shirt Mahrez 26.webp"
+    },
+
+    {
+        "name": "Manchester United Home Shirt Ronaldo #7",
+        "price": 149,
+        "team": "Manchester United",
+        "image": "pics/Manchester United CL Home Shirt Ronaldo 7.webp"
+    },
+
+    {
+        "name": "Paris Saint-Germain Away Shirt Icardi #18",
+        "price": 49,
+        "team": "Paris Saint-Germain",
+        "image": "pics/Paris Saint-Germain Away Shirt Icardi 18.webp"
+    },
+
+    {
+        "name": "Paris Saint-Germain Fourth Shirt Mbappe #7",
+        "price": 89,
+        "team": "Paris Saint-Germain",
+        "image": "pics/Paris Saint-Germain Fourth Shirt Mbappe 7.webp"
+    },
+
+    {
+        "name": "Real Madrid Away Shirt Ronaldo #7",
+        "price": 129,
+        "team": "Real Madrid",
+        "image": "pics/Real Madrid Away Shirt Ronaldo 7.webp"
+    },
+
+    {
+        "name": "Real Madrid Home Shirt Zidane #5",
+        "price": 99,
+        "team": "Real Madrid",
+        "image": "pics/Real Madrid Home Shirt Zidane 5.webp"
+    },
+
+    {
+        "name": "Sudtirol Away Shirt",
+        "price": 39,
+        "team": "Sudtirol",
+        "image": "pics/Sudtirol Away Shirt.webp"
+    },
+
+    {
+        "name": "Watford Away Shirt",
+        "price": 49,
+        "team": "Watford",
+        "image": "pics/Watford Away Shirt.webp"
+    }
+]
